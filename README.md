@@ -36,7 +36,7 @@ parquet, csv, json
 
 ## Updates
 
-- Base model: CV 1.77
+- Aug 2: Base model: CV 1.77 | **LeaderBoard 386/1119 | TOP 35%**
 - 
 
 ## Core code 
