@@ -29,6 +29,7 @@ parquet, csv, json
 
 ## Solution Approach
 
+- 1D CNN + Transformer
 - Preprocessing - Tensorflow
 - Embedding (Landmark Embedding + Embedding)
 - Transformer - replace softmax with softmax layer to support masked softmax
